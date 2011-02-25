@@ -1,0 +1,34 @@
+PSP Memory Game - by DSI
+=========================
+
+To install:  
+- Unzip contents of zip file to \PSP\GAME
+- Ensure the game is located at \PSP\GAME\MEMORY
+
+Software bugs, Paypal donations, etc., go to dislam@rocketmail.com.  Thank you!
+
+
+1.1 - new fonts
+    - loading screen shown at start
+    - some aesthetic changes
+    - improved random number seed; games were getting predictable
+    - works on PSP Slim now (thanks to homemister91's new LuaPlayer HM)
+
+1.0 - now works on custom firmware (tested on 3.52 M33-4)
+    - new cards added
+    - minor bug fixes
+
+0.9 - reverted back to PSP boxart instead of cards (but still standalone)
+    - minor fixes
+
+0.8 - using a real card deck
+    - now a standalone app, no longer need to load from LUA player
+	(easier for newbies to install)
+    - sounds are louder
+
+0.7 - improved sounds
+    - changed Game Over screen
+    - shows all cards turned over if you quit early
+    - minor fixes
+
+
